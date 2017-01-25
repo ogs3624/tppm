@@ -1,0 +1,6 @@
+ofxGui
+ofxOpenCv
+ofxOsc
+ofxBox2d
+ofxMSAInteractiveObject
+ofxQuadWarp
